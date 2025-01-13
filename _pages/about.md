@@ -11,4 +11,5 @@ I am Shi Jiarui (史佳睿), a  Ph.D. student in the Northeast Institute of Geog
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=21bc79&w=a&t=tt&d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c&co=2d78ad&cmo=d82dc9&cmn=ff5353&ct=ffffff'></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c'></script>
