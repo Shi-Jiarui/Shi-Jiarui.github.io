@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Shi Jiarui / Personal page"
 title_separator          : "-"
-name                     : &name "Shi Jiarui(史佳睿)"
+name                     : &name "Shi Jiarui"
 description              : &description "personal description"
 url                      : https://Shi-Jiarui.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/140431199506200017+史佳睿.jpg"
+  name             : "Shi Jiarui(史佳睿)"
   pronouns         : # example: "her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
