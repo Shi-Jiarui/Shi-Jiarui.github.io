@@ -12,17 +12,20 @@ layout: compress
     <style>
       /* 自定义 ClustrMaps 地球仪的样式 */
       #clstr_globe {
-        width: 30px; /* 设置地球仪的宽度 */
-        height: 30px; /* 设置地球仪的高度 */
+        width: 200px; /* 设置地球仪的固定宽度 */
+        height: 200px; /* 设置地球仪的固定高度 */
         margin: 0 auto; /* 水平居中 */
         display: block; /* 确保以块级元素显示 */
         position: relative; /* 相对定位 */
-        bottom: 0; /* 放置在页面底部 */
+        overflow: hidden; /* 隐藏超出部分 */
       }
       /* 调整 iframe 的大小 */
       #clstr_globe iframe {
-        width: 30% !important; /* iframe 宽度填充容器 */
-        height: 30% !important; /* iframe 高度填充容器 */
+        width: 100% !important; /* iframe 宽度填充容器 */
+        height: 100% !important; /* iframe 高度填充容器 */
+        border: none; /* 去除 iframe 边框 */
+        transform: scale(0.5); /* 缩小 iframe 内容 */
+        transform-origin: 0 0; /* 设置缩放原点 */
       }
     </style>
   </head>
