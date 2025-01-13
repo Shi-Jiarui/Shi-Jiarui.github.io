@@ -30,11 +30,11 @@ Honors and Scholarships
   2018-2019 New Student Scholarship  
   Excellent Graduate of Lvliang University in 2018  
   
-Skills
+Academic Service
 ======
-* Skill 1
-* Skill 2
-* Skill 3
+* IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTAR)
+* IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 
+
 
 Publications
 ======
@@ -72,20 +72,4 @@ Publications
   **Research on Urban Water Body Extraction based on Transfer Learning of Three High-resolution Image Datasets**  
   Jiarui Shi, Qian Shen, Hongchun Peng et.al  
   *Remote Sensing Technology and Application*  
-<!--
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
