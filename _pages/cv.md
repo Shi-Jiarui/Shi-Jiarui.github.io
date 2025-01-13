@@ -34,14 +34,11 @@ Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
 ======
-- **2024**  
+- **2025**  
   **Extraction of Duckweed or Algal Bloom Covered Water Using the SEM-Unet Based on Remote Sensing**  
   Yuying Zhang, Qian Shen, Yue Yao et.al  
   *Journal of Cleaner Production*  
@@ -75,12 +72,13 @@ Publications
   **Research on Urban Water Body Extraction based on Transfer Learning of Three High-resolution Image Datasets**  
   Jiarui Shi, Qian Shen, Hongchun Peng et.al  
   *Remote Sensing Technology and Application*  
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-<!--
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
