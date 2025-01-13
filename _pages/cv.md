@@ -40,7 +40,7 @@ Publications
 ======
 - **2025**  
   **Extraction of Duckweed or Algal Bloom Covered Water Using the SEM-Unet Based on Remote Sensing**  
-  Yuying Zhang, Qian Shen, Yue Yao et.al  
+  Yuting Zhang, Qian Shen, Yue Yao et.al  
   *Journal of Cleaner Production*  
   [http://dx.doi.org/10.1016/j.jclepro.2024.144625](http://dx.doi.org/10.1016/j.jclepro.2024.144625)  
 
