@@ -12,8 +12,8 @@ layout: compress
     <style>
       /* 自定义 ClustrMaps 地球仪的样式 */
       #clstr_globe {
-        width: 200px; /* 设置地球仪的固定宽度 */
-        height: 200px; /* 设置地球仪的固定高度 */
+        width: 20px; /* 设置地球仪的固定宽度 */
+        height: 20px; /* 设置地球仪的固定高度 */
         margin: 0 auto; /* 水平居中 */
         display: block; /* 确保以块级元素显示 */
         position: relative; /* 相对定位 */
@@ -36,11 +36,11 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bf1c1c&w=a&t=tt&d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c'></script>
-<!--    <!-- 将 ClustrMaps 地球仪放置在页面底部 -->
+
+     <!-- 将 ClustrMaps 地球仪放置在页面底部 -->
     <div style="text-align: center; margin-top: 20px;">
       <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c"></script>
-    </div> -->
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
