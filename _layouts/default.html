@@ -33,16 +33,16 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-
+   <!-- 将 ClustrMaps 地球仪放置在页面底部 -->
+    <div style="text-align: center; margin-top: 20px;">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c"></script>
+    </div>
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
       </footer>
-   <!-- 将 ClustrMaps 地球仪放置在页面底部 -->
-    <div style="text-align: center; margin-top: 20px;">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZmT6Lc3fmWZpuZyY0ukMPWo5izYUvVuHDbAJBbTj54c"></script>
-    </div>
+
     {% include scripts.html %}
   </body>
 </html>
