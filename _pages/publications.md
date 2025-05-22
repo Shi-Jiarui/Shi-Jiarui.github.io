@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-
-
+- **Shi, J., He, Q., Chen, J., Xu, J., Liu, G., Li, Z., & Song, K.** (2025). Real-Time Detection of Harmful Algal Blooms Using GOCI II and Buoy-Based Dissolved Oxygen Variations. Environmental Research Letters,
+http://dx.doi.org/10.1088/1748-9326/addb63
 - **Shi, J., Shen, Q., Yao, Y., Li, J., Chen, F., Wang, R., Xu, W., Gao, Z., Wang, L., & Zhou, Y.** (2022). Estimation of chlorophyll-a concentrations in small water bodies: comparison of fused Gaofen-6 and Sentinel-2 sensors. Remote Sensing, 14(1), 229.  http://dx.doi.org/10.3390/rs14010229
 - **Shi, J., Shen, Q., Peng, H., Li, L., Yao, Y., Wang, M., & Wang, R.** (2022). Research on Urban Water Body Extraction based on Transfer Learning of Three High-resolution Image Datasets. Remote Sensing Technology and Application](), 37(3), 731–738.  
 - **Shi, J., Shen, Q., Yao, Y., Zhang, F., Li, J., & Wang, L.** (2023). Field Radiometric Calibration of a Micro-Spectrometer Based on Remote Sensing of Plateau Inland Water Colors. Applied Sciences, 13(4), 2117.  
