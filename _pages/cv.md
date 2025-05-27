@@ -41,8 +41,8 @@ Publications
 ======
 - **2025** 
   **Real-Time Detection of Harmful Algal Blooms Using GOCI II and Buoy-Based Dissolved Oxygen Variations**
-  *Environmental Research Letters*
-   [http://dx.doi.org/10.1088/1748-9326/addb63](http://dx.doi.org/10.1088/1748-9326/addb63)
+  *Environmental Research Letters*   
+  [http://dx.doi.org/10.1088/1748-9326/addb63](http://dx.doi.org/10.1088/1748-9326/addb63)
 - **2025**  
   **Extraction of Duckweed or Algal Bloom Covered Water Using the SEM-Unet Based on Remote Sensing**  
   Yuting Zhang, Qian Shen, Yue Yao et.al  
