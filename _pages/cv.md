@@ -40,7 +40,7 @@ Academic Service
 Publications
 ======
 - **2025**  
-  **Real-Time Detection of Harmful Algal Blooms Using GOCI II and Buoy-Based Dissolved Oxygen Variations**
+  **Real-Time Detection of Harmful Algal Blooms Using GOCI II and Buoy-Based Dissolved Oxygen Variations**  
   Jiarui Shi, He Qin, Jinhua Cheng et.al. 
   *Environmental Research Letters*   
   [http://dx.doi.org/10.1088/1748-9326/addb63](http://dx.doi.org/10.1088/1748-9326/addb63)
