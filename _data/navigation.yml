@@ -23,6 +23,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "开源代码"
+    url: /opensource/
+
   # - title: "中文"
   #   url: /about-zh/
 

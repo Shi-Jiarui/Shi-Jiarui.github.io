@@ -1,0 +1,7 @@
+- name: "USA lakemetabolism plot"
+  url: "https://github.com/Shi-Jiarui/USA_lakemetabolism_plot"
+  description: "Analyze US lake metabolism data using Jupyter Notebook to generate interactive visualizations for FIG1 and FIG3-6."
+
+- name: "Lake Metabolism Analysis Pipeline"
+  url: "https://github.com/Shi-Jiarui/USA_lakemetabolism_landsat"
+  description: "A framework for monitoring lake metabolism across North America using multi-source remote sensing data.。"
