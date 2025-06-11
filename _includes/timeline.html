@@ -1,0 +1,8 @@
+<div class="timeline">
+  {% for item in site.data.timeline %}
+  <div class="timeline-node">
+    <div class="node-date">{{ item.date }}</div>
+    <div class="node-content">{{ item.description }}</div>
+  </div>
+  {% endfor %}
+</div>

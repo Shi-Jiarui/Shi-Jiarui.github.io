@@ -1,0 +1,7 @@
+languages:
+  en:
+    name: English
+    locale: en-US
+  zh:
+    name: 中文
+    locale: zh-CN

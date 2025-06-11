@@ -22,6 +22,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "中文"
+    url: /about-zh/
+
+  - title: "English"
+    url: /
     
   # - title: "Guide"
   #   url: /markdown/
