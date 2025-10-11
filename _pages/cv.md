@@ -37,6 +37,7 @@ Academic Service
 * IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 
 * Journal of Environmental Management(JEM)
 * Science of Remote Sensing(SRS)
+* Remote Sensing Applications: Society and Environment (RSASE)
   
 Publications
 ======
