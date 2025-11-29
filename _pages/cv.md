@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Northeast Institute of Geography and Agroecology, Changchun, Jilin, 2026 (expected)
+* Ph.D in Northeast Institute of Geography and Agroecology, Changchun, Jilin, 2027 (expected)
 * M.S. in Jiangsu Ocean University, Lianyungang, Jiangsu, 2021
 * B.S. in Lvliang University, Lvliang, Shanxi, 2018
 
@@ -37,6 +37,11 @@ Academic Service
 * IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 
 * Journal of Environmental Management(JEM)
 * Science of Remote Sensing(SRS)
+<<<<<<< HEAD
+=======
+* Remote Sensing Applications: Society and Environment (RSASE)
+  
+>>>>>>> 380cc8d233d855aec8006ab9a91f446f97fb4b61
 Publications
 ======
 
