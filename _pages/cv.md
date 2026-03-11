@@ -36,7 +36,7 @@ Academic Service
 * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTAR)
 * IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
 * International Journal of Applied Earth Observation and Geoinformation (JAG)
-* Water Resources Research (WWR)
+* Water Resources Research (WRR)
 * Journal of Environmental Management(JEM)
 * Science of Remote Sensing(SRS)
 * Remote Sensing Applications: Society and Environment (RSASE)
