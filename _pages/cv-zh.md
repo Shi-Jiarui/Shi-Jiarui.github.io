@@ -68,7 +68,7 @@ redirect_from:
   [http://dx.doi.org/10.3390/rs16183509](http://dx.doi.org/10.3390/rs16183509)
 
 - **2024年**  
-  **不同形态水绵的遥感识别与时空变化分析**  
+  **不同形刚毛藻的遥感识别与时空变化分析**  
   徐文婷，申茜，张博等  
   *Remote Sensing*  
   [http://dx.doi.org/10.3390/rs16030602](http://dx.doi.org/10.3390/rs16030602)
