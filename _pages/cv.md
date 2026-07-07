@@ -48,6 +48,12 @@ For a complete and automatically updated list of my publications, please visit m
 
 ### Selected Publications
 
+- **2026**  
+  **A review of machine learning applications in inland and nearshore water color remote sensing: from preprocessing to object detection and parameter estimation**  
+  Jiarui Shi, Zuchuan Li, Ge Liu et.al  
+  *Journal of Hydrology*  
+  [https://doi.org/10.1016/j.jhydrol.2026.135950](https://doi.org/10.1016/j.jhydrol.2026.135950)
+
 - **2025**  
   **Real-Time Detection of Harmful Algal Blooms Using GOCI II and Buoy-Based Dissolved Oxygen Variations**  
   Jiarui Shi, He Qin, Jinhua Cheng et.al  
