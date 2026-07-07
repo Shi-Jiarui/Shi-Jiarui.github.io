@@ -37,8 +37,8 @@ Academic Service
 * IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
 * International Journal of Applied Earth Observation and Geoinformation (JAG)
 * Water Resources Research (WRR)
-* Journal of Environmental Management(JEM)
-* Science of Remote Sensing(SRS)
+* Journal of Environmental Management (JEM)
+* Science of Remote Sensing (SRS)
 * Remote Sensing Applications: Society and Environment (RSASE)
   
 Publications
